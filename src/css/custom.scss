@@ -1,0 +1,220 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+@use 'default-fonts-and-colors';
+@use 'header';
+@use 'pagination';
+@use 'sidebar';
+@use 'table-of-contents';
+// @use 'doc';
+// @use 'footer';
+// @use 'introduction-page';
+// @use 'overview-page';
+@use 'cloud-db-icon-gallery';
+// @use 'admonitions';
+// @use 'badges';
+// @use 'tables';
+// @use 'hasura-cutom';
+@use 'apidocs';
+@use 'sidebar-category-heading';
+@use 'nocodestyle';
+/* Custom Styles */
+
+
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+
+/* You can override the default Infima variables here. */
+
+html,
+body {
+    // font-family: montserrat;
+    color: var(--dhq-body-color);
+    background-color: var(--dhq-body-background);
+    font-size: 15px;
+}
+
+a {
+    font-weight: 500;
+}
+
+.menu__link {
+    font-size: 13px;
+    color: var(--dhq-body-color);
+    font-weight: 500;
+}
+
+.menu__link--active {
+    font-weight: 600;
+    color: var(--ifm-menu-color-active);
+}
+
+.menu__link--active:hover {
+    color: var(--ifm-menu-color-active) !important;
+}
+
+.menu__link:hover {
+    color: var(--dhq-body-color);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    // font-family: montserrat;
+    color: var(--dhq-header-color);
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.breadcrumbs__item--active .breadcrumbs__link {
+    background: var(--dhq-background-light);
+    font-weight: 500;
+}
+
+.container {
+    padding: 24px 42px !important;
+}
+
+.containerGridSampleApp {
+    margin: 0px;
+    grid-gap: 20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    margin-bottom: 54px;
+}
+
+.containerColumnSampleApp {
+    border: 1px solid #dadce0 !important;
+    border-radius: 8px;
+    box-shadow: var(--dhq-shadow-lw);
+    border: none !important;
+    padding: 20px;
+    background: var(--dhq-card-background);
+}
+
+.columnGrid {
+    flex: 1;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.column-one {
+    order: 1;
+}
+
+.column-two {
+    order: 2;
+}
+
+.column-three {
+    order: 3;
+}
+
+.containerImage {
+    margin: 1px;
+    font-weight: bold;
+    vertical-align: center;
+}
+
+.navbar-sidebar {
+    background-color: var(--dhq-navbar-background);
+}
+
+
+/* mobile #2 to be updated */
+
+.navbar-sidebar__item {
+    padding: 1.5rem;
+}
+
+
+/* scrollbar */
+
+:root ::-webkit-scrollbar {
+    width: 6px;
+}
+
+:root ::-webkit-scrollbar-track {
+    background: var(--dhq-background-menu);
+}
+
+:root ::-webkit-scrollbar-thumb {
+    background: var(--dhq-border-color);
+}
+
+:root ::-webkit-scrollbar-thumb:hover {
+    background: #E8E8Ed !important;
+}
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 20px;
+    margin-bottom: 20px;
+}
+
+.gallery.three-row {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.card h4 {
+    text-transform: uppercase;
+    font-size: 1.1rem;
+    margin: 0;
+}
+
+.card a {
+    margin-left: auto;
+    margin-top: auto;
+    display: flex;
+    align-items: center;
+}
+
+.card a:hover .arrow {
+    transform: translateX(5px);
+    --ifm-card-background-color: #ffffff;
+}
+
+.card-header {
+    display: flex;
+    gap: 0.75rem;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.arrow {
+    transition: all 0.3s ease-in-out;
+    display: grid;
+    margin-left: 6px;
+}
+
+.arrow path {
+    stroke: var(--ifm-link-color);
+}

@@ -1,0 +1,108 @@
+---
+sidebar_position: 2
+title: Acceptable Use Policy
+---
+
+
+
+This Acceptable Use Policy (“AUP”) describes permitted and prohibited conduct when using DronaHQ and related services (collectively, the “Services”). We may suspend, terminate, or downgrade your access if you engage in willful, repeated, or harmful violations of this AUP. Capitalized terms not defined here have the meanings given in our User Terms of Service.
+
+### 1. General Obligations
+
+1. **Compliance**
+    
+    You must comply with the User Terms of Service, this AUP, and all applicable laws and regulations, including those governing intellectual property, data protection, privacy, and export controls.
+    
+2. **Authorized Content**
+    
+    You may upload and process only data, code, fonts, libraries, and other material for which you hold all necessary rights, licenses, and permissions.
+    
+3. **Account Security**
+    - Keep your passwords and authentication credentials confidential.
+    - Monitor all activity under your account and promptly report any unauthorized access or suspicious behavior.
+4. **Third-Party Integrations**
+    
+    You are responsible for compliance with the terms of any third-party service (APIs, libraries, databases) you connect to or embed within your applications.
+    
+5. **Public-Facing Applications**
+    
+    If you publish or share any Custom App publicly, you must host and maintain a user agreement and a privacy policy that satisfy all applicable legal requirements.
+    
+
+### 2. Prohibited Conduct
+
+You may **not** use our Services or Custom Apps to:
+
+1. **Unauthorized Sharing**
+    
+    Share, transfer, sublicense, resell, or otherwise provide access to your account, credentials, or paid subscription benefits to any unauthorized third party.
+    
+2. **Reverse Engineering**
+    
+    Reverse engineer, decompile, disassemble, hack, tamper with, or otherwise attempt to discover or modify any proprietary aspects of the Services or third-party integrations.
+    
+3. **Circumvention**
+    
+    Bypass, disable, or interfere with any security control, usage-limitation mechanism, or fee structure of the Services.
+    
+4. **Impersonation**
+    
+    Impersonate any person or entity, including DronaHQ employees or other Authorized Users, or misrepresent your affiliation with any person or organization.
+    
+5. **Illegal or Harmful Content**
+    
+    Create, upload, store, or transmit any material that:
+    
+    - Infringes or misappropriates third-party intellectual property rights.
+    - Constitutes fraud, identity theft, or unlawful activity.
+    - Harasses, threatens, or defames any individual or group.
+    - Exploits or endangers minors (under age 13).
+6. **Malware & Exploits**
+    
+    Host or distribute viruses, worms, Trojan horses, ransomware, spyware, or any other malicious code or component designed to disrupt or gain unauthorized access to systems.
+    
+7. **Spam & Unsolicited Communications**
+    
+    Use Custom Apps to send unsolicited bulk messages, promotions, phishing attempts, or deceptive content designed to trick recipients.
+    
+8. **Terrorism & Illicit Organizations**
+    
+    Provide material support, resources, or facilitation to any organization designated a terrorist group by U.S. or other governing authorities.
+    
+9. **Automated Abuse**
+    
+    Use the Services to engage in referral or promotional abuse, or any scheme intended to obtain credits, discounts, or payouts through deceptive or fraudulent means.
+    
+10. **Competitive Exploitation**
+    
+    Access or use the Services to build a competing product or service, or to copy features, functions, or graphics of the Services.
+    
+
+### 3. Versioning, Modification, and Enforcement
+
+- **Policy Updates**
+    
+    We may modify this AUP at any time. Continued use of the Services after updates constitutes acceptance of the revised policy.
+    
+- **Enforcement Remedies**
+    
+    For violations of this AUP, we may:
+    
+    1. Issue warnings.
+    2. Suspend or terminate accounts.
+    3. Downgrade paid subscriptions to free plans.
+    4. Pursue any other rights or remedies available under our Terms of Service or applicable law.
+
+---
+
+### Contact
+
+If you have questions about this policy, please contact us at [support@dronahq.com](mailto:support@dronahq.com) or by mail:
+
+```
+Deltecs Infotech Pvt. Ltd.
+201, Agrawal Industrial Estate
+Indian Oil Petrol Pump, S V Road
+Dahisar East, Mumbai 400068
+Maharashtra, India
+```
